@@ -1,5 +1,7 @@
 # verinim
 A tool made in Nim that allows you to verify the checksum of a file
+![verinim](src/images/image1.png)
+![verinim](src/images/image2.png)
 # usage
 ```
 git clone https://github.com/Synth9283/verinim.git
